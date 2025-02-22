@@ -7,3 +7,4 @@ print("------------------")
 print("Name : "+ name)
 print("Age : "+ age)
 print("GPA : "+ gpa)
+
